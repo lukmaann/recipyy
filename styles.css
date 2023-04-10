@@ -82,6 +82,8 @@ body{
    
    .about-link{
       position: relative;   
+      right: 0px;
+      margin-top: 20px;
    }
 
    .cap{
