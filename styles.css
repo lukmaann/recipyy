@@ -79,6 +79,10 @@ body{
       height: 700px;
       width: 100%;
    }
+   
+   .about-link{
+      position: relative;   
+   }
 
    .cap{
       width: 69px;
