@@ -1,7 +1,7 @@
 body{
    margin: 0;
 }
-.top-div{
+.top-div,.rec-top-div{
    width: 100%;
 
    background-color: #ECF9FF;
@@ -109,11 +109,20 @@ body{
 .rec-text{
    position: absolute;
    right: 100px;
+   width: 40%;
 }
 
 .rec-text li{
    list-style-type: square;
+   font-size: 0.9em;
  
+   
+}
+
+.recipy{
+   width: 50%;
+   text-align: left;
+   position: absolute;
    
 }
 
@@ -164,12 +173,27 @@ body{
    }
 
    .rec-home-img{
-      width: 80%;
+      width: 60%;
+   }
+   .rec-top-div{
+      height: 380px;
+      width: 100%;
+
    }
    .rec-text{
       top: 430px;
-      right: 20px;
+      left: 30px;
+      width: 90%;
       font-size: 0.9em;
+      
    }
+   .recipy{
+      width: 100%;
+      padding: 20px;
+      left: 0;
+      top: 300px;
+      background-color: white;
+   }
+   
 
  }
