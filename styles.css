@@ -86,8 +86,14 @@ body{
 
    }
    .home-content{
+      font-size:1.4em;
       right: -2px;
       top: 378px;
+   }
+   
+   .home-content p{
+      padding-top: 45px;
+   
    }
    .top-div{
       height: 700px;
