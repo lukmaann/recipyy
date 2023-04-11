@@ -93,6 +93,12 @@ body{
       height: 700px;
       width: 100%;
    }
+   
+   .about-link{
+      position: relative;   
+      right: 0px;
+      margin-top: 20px;
+   }
 
    .cap{
       width: 69px;
